@@ -53,3 +53,4 @@ inflection.AddSingular("(bus)(es)?$", "${1}") # "buses" => "bus" / "Buses" => "B
 ## License
 
 Released under the [MIT License](http://www.opensource.org/licenses/MIT).
+Hello World2
