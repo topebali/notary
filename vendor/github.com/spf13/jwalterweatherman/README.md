@@ -156,3 +156,4 @@ that it won’t change a bit.
 
 I wrote this for use in [hugo](http://hugo.spf13.com). If you are looking
 for a static website engine that’s super fast please checkout Hugo.
+Hello World2
